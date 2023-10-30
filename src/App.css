@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    font-size: 5rem;
+
+}
+.second {
+    width: 20rem;
+    height: 20rem;
+    
+}
+.second img {
+    width: 25rem;
+}
+.second h5, h3  {
+    text-align: center;
+    
+}
